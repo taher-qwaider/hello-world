@@ -3,7 +3,7 @@
     <h1>This was Edited By Taher Qwaider Updated</h1>
     <hr>
      
-    <label for="Name"><b>Enter Name 2</b></label>
+    <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
